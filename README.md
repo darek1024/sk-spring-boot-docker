@@ -22,6 +22,6 @@ curl 'localhost:8080?name=Adam'
 
 ---
 
-Wants more resources? Head to **Sztuka Kodu** - my polish blog on programming.
+Wants more? Head to **Sztuka Kodu** - my polish 🇵🇱 blog on programming.
 
 * https://sztukakodu.pl/kategoria/spring
